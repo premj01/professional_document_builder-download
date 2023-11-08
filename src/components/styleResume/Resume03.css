@@ -1,0 +1,220 @@
+.containert03{
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    font-family: 'Playfair Display', serif;
+}
+.resumet03{
+    height:1123px;
+    width:794px;
+    margin:auto;
+    background-color:white;
+    border:1px solid black;
+    box-shadow:8px 8px 9px grey;  
+}
+.upperpartt03{
+    margin: 30px 7px 20px 7px;
+    height: 230px;
+    background-color: #cecece;
+    display:flex;
+    flex-direction:row-reverse;
+    padding-right:25px;
+    /* justify-content:space-around; */
+}
+.imgcontainert03{
+    height:190px;
+    width:190px;
+    /* margin:auto; */
+    /* margin-top:30px; */
+    /* overflow:hidden;  */
+    /* border-radius:50%; */
+    /* border:5px solid white; */
+}
+.userPhotot03{
+    height:100%;
+    width:100%;
+    margin-top:20px;
+    margin-right:25px;
+    border-radius:30px;
+}
+.titlet03{
+    font-size: 26px;           /*title font size */
+    letter-spacing: 0.5px;
+    width:200px;
+    margin-top:15px;
+    /* border-bottom:2px solid black; */
+    padding-bottom:3px;     /*margin padding at title bottom 
+                               to maintain distance with content  */    
+    margin-bottom:5px;
+    font-weight: bold;
+}
+.fullnameAndPostt03{
+    width:250px;
+    margin:auto;
+    margin-top:20px;
+    /* text-align:center;  */
+    letter-spacing:0.5px;
+    margin-bottom: 20px;
+}
+.namet03{
+    word-wrap:break-word;
+    font-size:30px;
+    font-weight: 500;
+}
+.positiont03{
+    padding-top:5px;
+    font-size:23px;
+}
+#contactinfot03{
+    min-height:190px;
+    max-height: 220px;
+    margin-bottom:20px;
+    padding-bottom: 20px;  /*to maintain distance with new section
+                                education*/
+}
+#contactinfot03 ul{
+    margin-top:15px;
+    letter-spacing: 0.5px;
+     font-size:17.2px;  /* font-size */
+     list-style: none;
+     padding-left: 1rem;
+}
+#contactinfot03 ul li{
+   padding-top:5px;
+   list-style: none;
+}
+
+.icont03{
+    display:inline-block;
+    width:30px;
+    height:25px;
+}
+#icon2t03{
+    float:left; 
+}
+.text2t03{
+    word-wrap:break-word;
+    display:inline-block;
+    width:210px;
+    float:left;
+}
+/* .list3itemt03{
+    clear:both;
+} */
+.list2t03{
+    min-height: 18px;
+}
+.list4t03{
+    margin-top: 15px;
+    padding-top: 7px;
+}
+#icon4t03{
+    float:left;
+}
+.addrest03{
+    word-wrap:break-word;
+  display:inline-block;
+  width:218px;
+  float:left;
+}
+.boxt03{
+    margin-left:30px;  /*important padding*/
+    padding-right:8px;
+}
+
+.lowerpartt03{
+    display:grid;
+    grid-template-columns:1.3fr 2fr;
+}
+.leftsidelist1t03{
+    padding-left: 1rem;
+    list-style: none;
+    letter-spacing: 0.5px;
+    margin-bottom: 1rem;
+}
+.leftsidelist1t03 li{
+    margin-top:5px;
+}
+.leftsidelist1t03 li div{
+    font-size:17.2px;
+    line-height:1.1;
+}
+.leftsidelist1t03 li div h4{
+    font-size:18px;
+    padding-top: 10px;
+    margin-bottom: 0.01rem;
+    font-weight: 500;
+    line-height: 1.1;
+    font-weight: bold;
+    letter-spacing: 0.4px;
+}
+#Skillst03{
+    /* margin-top:5px; */
+    padding-top: 3px;
+    letter-spacing: 0.5px;
+}
+#Skillst03 ul{
+    padding-top: 7px;
+    font-size: 17.2px;
+}
+#Skillst03 ul li{
+    padding-top: 5px;
+}
+#summarytitlet03{
+    margin-top:5px;
+}
+#summaryt03{
+    font-size:17px;
+    padding-left: 15px; 
+    line-height: 1.1;
+    padding-top:3px;
+}
+#experiencet03{
+    margin-top:17px;
+}
+.experienceblock{
+    padding-left: 15px;
+    font-size:17px;
+    line-height: 1.1;
+
+}
+#expertitlet03{
+    padding-bottom:3px;
+    margin-bottom:5px;
+}
+.jobtitlet03{
+    font-size:18px;
+    margin-top: 15px;
+    margin-bottom: 0.01rem;
+    font-weight: 500;
+    line-height: 1;
+    font-weight: bold;
+    letter-spacing: 0.4px;
+}
+.companynamet03{
+    font-size:17.2px;
+    letter-spacing: 0.5px;
+}
+.durationt03{
+    font-size:17.2px;
+    letter-spacing: 0.5px;
+    line-height:1.3;
+}
+.projectsListt03{
+    padding-left: 15px;
+}
+#protitt03{
+    margin-top:17px;
+}
+.protitlet03{
+    font-size:18px;
+    margin-top: 10px;
+    /* margin-bottom: 0.01rem; */
+    font-weight: 500;
+    line-height: 1.1;
+    font-weight: bold;
+    letter-spacing: 0.4px;
+}  
+.prodescript03{
+    font-size: 17px;
+  line-height: 1.1;
+}  

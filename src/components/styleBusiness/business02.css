@@ -1,0 +1,193 @@
+
+.container02{
+    font-family: 'Playfair Display', sans-serif;;
+    width: 100vw;
+    height: 170vh;
+    /* background-image: linear-gradient(to right bottom, #efdbdb, #ece1e1, #d9ead5, #d8d6b8b0 70%, #dfc2a1); */
+    /* background-image: linear-gradient(to right bottom, #ffffff, #dddcdc, #bcbaba, #9c9998, #7b7a77); */
+    background-image: linear-gradient(154deg, rgb(255, 255, 255) 35%, rgba(119, 119, 119, 0.608) 36%, rgba(119, 119, 119, 0.608) 64%, rgb(255, 255, 255) 65%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    
+}
+.front02{
+    margin: 0;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-top: 0.2px solid rgb(194, 194, 194);
+    height: 4.2in;
+    width: 7in;
+    background-color:white;
+    box-shadow: 0px 0px 10px gray;
+    border-radius: 2px;
+}
+.back02{
+    margin: 0;
+    height: 4.2in;
+    width: 7in;
+    background-color: yellow;
+    box-shadow: 0px 0px 10px gray;
+    border-radius: 2px;
+
+    /* background-color: rgb(64,64,64); */
+    background-image: radial-gradient(circle, #5c5c5c, #555555, #4e4e4e, #474747, #404040);
+}
+.front02{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.front02-logo{
+    padding: 15px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    
+}
+.front02-logo div{
+    height: 120px;
+    width: 120px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.front02-logo div img{
+    height: 130px;
+    width: 130px;
+    overflow: hidden;
+}
+.smallline02{
+    height: 150px;
+    width: 2px;
+    background: #55555587;
+    border-radius: 100%;
+}
+.front02-title{
+    /* background: gray; */
+    height: 115px;
+    width: 261px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+}
+.title02{
+    font-size: 35px;
+    font-weight: 800;
+    margin: 0;
+    letter-spacing: 2px;
+}
+.tagline02{
+    margin: 0;
+    font-size: 14px;
+    font-weight: 400;
+    border-top: 0.5px solid black;
+}
+.bigline02{
+    background-color: #55555587;
+    height: 260px;
+    width: 2px;
+    border-radius: 100%;
+}
+.front02-details{
+    /* background-color: gray; */
+}
+.back02-container{
+    /* background-color: yellow; */
+    display: flex;
+    flex-direction: column;
+    padding: 14px;
+    /* font-weight: 500; */
+    font-family: 'Roboto Slab';
+}
+.back02-details{
+    display: flex;
+    flex-direction: row;
+
+}
+.back02-icon{
+    padding: 15px;
+    width: 19px;
+    /* height: 10px; */
+}
+.back02-detail02{
+    margin: 0;
+    padding: 2px;
+    margin-left: 8px;
+    font-weight: 300;
+}
+.back02-details02{
+    margin: 0;
+    padding: 2px;
+    margin-left: 8px;
+    height: 64px;
+    font-weight: 300;
+}
+.cardowner02{
+    /* background-color: yellowgreen; */
+    width: 280px;
+    padding-left: 15px;
+    border-bottom: 2px solid #55555587;
+    border-bottom-right-radius: 20%;
+    
+}
+
+.cardowner02 h5{
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+.cardowner02 p{
+   margin: 0;
+   padding: 0;
+   font-size: 13px;
+}
+
+.back02-cnt{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.back02-qr{
+    height: 100px;
+    width: 100px;
+}
+.back-smallline02{
+    height: 150px;
+    width: 2px;
+    background: #a9a9a966;
+    border-radius: 100%;
+}
+.back02-titletag{
+    width: 324px;
+    height: 106px;
+    color: #949494;
+}
+.back02-title{
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 4px;
+}
+.back02-tagline{
+    font-size: 20px;
+    font-weight: 400;
+}
+.business02-btn{
+    width: 200px;
+    box-shadow: 2px 3px 3px rgb(52, 71, 23);
+}
+.business02-btn-container{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin: 40px;
+    margin-top: 15vh;
+
+}
